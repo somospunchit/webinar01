@@ -1,3 +1,6 @@
+// hapi/joi
+// yup
+// validar una contraseña (Al menos una mayuscula, 3 minusculas, un caracter especial, un número)
 const validateNA = (e) => {
   const { value: string, id } = e.target;
   const pattern = /^[a-zA-Z]{1}[a-z]{1,16}/;
