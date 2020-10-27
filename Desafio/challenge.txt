@@ -1,0 +1,10 @@
+1. Armar una expresión regular que valide una contraseña cumpliendo el siguiente patrón:
+    La contraseña debe tener una mayúscula.
+    La contraseña debe tener un número.
+    La contraseña debe tener un caracter especial (.-_,etc)
+    La contraseña debe tener entre 8 y 12 caracteres.
+
+La resolución del ejercicio debe estar publicada como un comentario en el siguiente video:
+
+https://www.youtube.com/watch?v=3_MPdJAXcgI&t=3118s
+
